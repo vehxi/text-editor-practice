@@ -1,14 +1,26 @@
 body {
   text-align: center;
-  margin: 10px;
+  margin: 50px 10px;
   font-family: Verdana, Arial, sans-serif;
   font-size: 16px;
+  background-color: bisque;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
 }
 
 #editor {
-  height: 250px;
-  width: 100%;
+  padding: 10px;
+  height: 50%;
+  width: 80%;
   border: solid 2px #000000;
   border-radius: 10px;
+  outline: none;
   text-align: left;;
+  box-shadow: 9px 12px 0 0 black;
+  background-color: aliceblue;
 }
+
