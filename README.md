@@ -21,11 +21,12 @@
 ## Как запустить
 
 1.  **Клонируйте репозиторий:**
+
     ```bash
     git clone https://github.com/vehxi/text-editor-practice
     ```
-    *(Замените `<URL_вашего_репозитория>` на фактический URL вашего репозитория)*
 2.  **Перейдите в директорию проекта:**
+
     ```bash
     cd text-editor-practice
     ```
